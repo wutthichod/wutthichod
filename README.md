@@ -1,9 +1,5 @@
 ## wutthichod ⚡
 
-Hello test  
-test: yo  
-yo: gurt  
-
 
 <!--
 **wutthichod/wutthichod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
